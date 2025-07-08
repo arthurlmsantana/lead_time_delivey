@@ -5,3 +5,13 @@ Este projeto tem como objetivo analisar e comparar o desempenho de cinco algorit
 A proposta é entender quais variáveis mais influenciam no tempo de entrega e identificar o modelo com melhor performance para esse tipo de previsão, o que pode ser útil para empresas do setor de delivery otimizarem suas operações e oferecerem uma experiência mais precisa aos clientes.
 
 
+## Análise exploratória de dados
+
+Primeiramente a ideia é visualizar o dataset como uma tabela, para isso, é utilizado o pacote Pandas para visualizar as primeiras linhas:
+
+![image](https://github.com/user-attachments/assets/90d5988b-196d-4e5d-84c7-3e5e803bb3b4)
+
+
+Temos colunas categóricas e numéricas, cada uma delas vai ser analisada de forma separada.
+
+
